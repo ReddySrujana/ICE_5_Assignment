@@ -1,0 +1,51 @@
+ShipmentID,Origin,Destination,Weight(kg),ShippingMethod,DeliveryTime(days)
+S001,Miami,Phoenix,72.1,Ground,1
+S002,New York,Dallas,9.9,Sea,8
+S003,Miami,Los Angeles,60.8,Ground,6
+S004,Dallas,Houston,12.9,Air,9
+S005,Miami,San Diego,49.1,Ground,7
+S006,Boston,Chicago,48.8,Sea,4
+S007,Chicago,Chicago,84.8,Air,7
+S008,San Francisco,New York,29.3,Air,4
+S009,San Francisco,Seattle,50.8,Air,1
+S010,Chicago,Miami,62.7,Ground,6
+S011,Houston,San Diego,28.3,Air,8
+S012,Boston,Miami,63.5,Sea,6
+S013,San Francisco,Phoenix,49.2,Air,6
+S014,Seattle,Miami,44.7,Ground,9
+S015,Miami,Los Angeles,11.5,Sea,10
+S016,New York,San Diego,84.4,Air,6
+S017,New York,New York,26.8,Air,5
+S018,Seattle,New York,68.1,Ground,5
+S019,Dallas,Houston,14.1,Sea,3
+S020,San Francisco,Los Angeles,54.1,Ground,10
+S021,Houston,Chicago,33.3,Sea,2
+S022,Houston,Chicago,19.2,Air,9
+S023,Dallas,Chicago,94.4,Sea,10
+S024,Denver,Miami,87.1,Air,7
+S025,Chicago,Phoenix,65.5,Ground,6
+S026,Houston,Phoenix,30.1,Air,7
+S027,Chicago,Phoenix,92.3,Sea,6
+S028,New York,San Diego,42.0,Air,4
+S029,Dallas,San Diego,74.8,Air,3
+S030,Seattle,San Diego,72.9,Sea,4
+S031,Dallas,Miami,16.9,Ground,1
+S032,Dallas,San Diego,56.4,Ground,6
+S033,Houston,Houston,44.4,Air,6
+S034,Denver,Seattle,97.7,Air,6
+S035,Denver,San Diego,36.1,Sea,1
+S036,Seattle,Phoenix,54.0,Air,9
+S037,Boston,Seattle,46.6,Air,7
+S038,Chicago,Chicago,16.3,Sea,4
+S039,Chicago,Seattle,20.5,Sea,7
+S040,Houston,Miami,30.9,Air,1
+S041,Dallas,Los Angeles,28.5,Ground,8
+S042,Dallas,Dallas,17.6,Sea,7
+S043,Dallas,Phoenix,44.4,Air,9
+S044,Houston,Phoenix,38.5,Air,10
+S045,Atlanta,Miami,35.1,Sea,10
+S046,Chicago,Miami,23.1,Sea,3
+S047,San Francisco,Phoenix,8.0,Sea,4
+S048,Atlanta,Houston,18.5,Air,9
+S049,Chicago,Los Angeles,61.9,Air,10
+S050,Atlanta,Atlanta,31.5,Ground,2
